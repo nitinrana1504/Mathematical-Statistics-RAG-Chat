@@ -64,5 +64,4 @@ The book covers topics including probability theory, statistical distributions, 
 - Google Generative AI API key  
 - Pinecone API key and index  
 
-### Dependencies
 
