@@ -42,7 +42,11 @@ The book covers topics including probability theory, statistical distributions, 
    - PDF loading and parsing (PyPDFLoader)  
    - Text chunking (RecursiveCharacterTextSplitter)  
    - Embedding generation (Google Generative AI)  
-   - Vector upload to Pinecone  
+   - Vector upload to Pinecone
+
+## 🖼 Screenshots
+
+![Mathematical-Statistics-RAG-Chat](ScreenShots/Screenshot.png)
 
 ### Technology Stack
 
