@@ -9,10 +9,9 @@ This application is built around the renowned textbook **Fundamentals of Mathema
 
 ### Book Details
 - **Authors**: S.C. Gupta and V.K. Kapoor  
-- **Publisher**: Sultan Chand & Sons  
-- **Latest Edition**: 12th Revised Edition (Golden Jubilee Edition)  
-- **Pages**: Over 1,322 pages  
-- **ISBN**: 978-93-5161-173-8  
+- **Publisher**: Sultan Chand & Sons   
+- **Pages**: Over 1,303 pages  
+- **ISBN**: 81-7014-791-3   
 - **Target Audience**: Undergraduate, Honours, and Post-graduate students of Mathematical Statistics  
 
 The book covers topics including probability theory, statistical distributions, sampling theory, hypothesis testing, correlation analysis, regression, and advanced statistical inference methods.
