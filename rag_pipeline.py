@@ -58,8 +58,8 @@ def generate_rag_response(query, relevant_chunks):
     context = "\n\n".join([chunk["text"] for chunk in relevant_chunks])
 
     rag_prompt = f"""
-You are a helpful assistant that answers questions based on the provided context.
-
+You have to behave like a Mathematics and Statistics Expert
+You will be given a context of relevant information and a user question.
 Context:
 {context}
 
@@ -68,7 +68,7 @@ Question: {query}
 Instructions:
 1. Answer only from the context.
 2. If not enough info, say "I don’t have enough information in the provided context."
-3. Be precise and structured.
+3.  Keep your answers clear, concise, and educational.
 Answer:
 """
 
