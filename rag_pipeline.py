@@ -1,14 +1,9 @@
-import os
-from dotenv import load_dotenv
 import google.generativeai as genai
 from pinecone import Pinecone
 
-# ✅ Load environment variables
-load_dotenv()
-GEMINI_API_KEY = os.getenv("GEMINI_API_KEY")
-PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
-PINECONE_INDEX_NAME = os.getenv("PINECONE_INDEX_NAME")
-
+GEMINI_API_KEY = "AIzaSyB5CxJCnrgbtVaEIdZj4OGGV_EO82B-X3w"
+PINECONE_API_KEY = "pcsk_2avFR6_EVP7EQnoTGXhNKNWxByYaM8WYgGsrM9qQ9SJyPNBzJuAbecgaoSFHPchvXSkC89"
+PINECONE_INDEX_NAME = "nitinr"
 # ---------------------------------------------------
 # 1. Create RAG System
 # ---------------------------------------------------
