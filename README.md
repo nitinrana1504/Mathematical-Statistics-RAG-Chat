@@ -47,6 +47,7 @@ The book covers topics including probability theory, statistical distributions, 
 ## 🖼 Screenshots
 
 ![Mathematical-Statistics-RAG-Chat](ScreenShots/Screenshot.png)
+![Mathematical-Statistics-RAG-Chat](ScreenShots/Screenshot1.png)
 
 ### Technology Stack
 
