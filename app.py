@@ -1,10 +1,10 @@
 import streamlit as st
 from rag_pipeline import ask_question
 
-st.set_page_config(page_title="📚 Mathematical Statistics RAG Chat", layout="wide")
+st.set_page_config(page_title="📚 Mathematical Statistics RAG Chatbot", layout="wide")
 
-st.title("📚 Mathematical Statistics RAG Chat")
-st.markdown("Ask me anything about your uploaded document. (Powered by Gemini + Pinecone)")
+st.title("📚 Mathematical Statistics RAG Chatbot")
+st.markdown("Ask me anything about Statistics If it is in my knowledgebase i give you answer. (Powered by Gemini + Pinecone)")
 
 user_query = st.text_input("💬 Enter your question:")
 
